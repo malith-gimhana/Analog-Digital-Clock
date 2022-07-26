@@ -182,3 +182,25 @@ body
         opacity: 0;
     }
 }
+
+
+  /*--Responsive---*/
+@media(max-width:991px){
+    body{
+        width: 100%;
+        align-items: center;
+    }
+}
+@media(max-width:767px){
+    body{
+        width: 100%;
+        align-items: center;
+    }
+    
+}
+@media(max-width:575px){
+    body{
+        width: 100%;
+        align-items: center;
+    }
+}
